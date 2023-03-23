@@ -1,9 +1,10 @@
 ## 🌊 Hi, Thanks to visit my profile ! 🐬
-#### *A student learning Programing*
-#### *Majors: 🏛️Philosophy, 💻Computer Science And Engineering*
-#### *Ewha Womans University*
+##### *A student learning Programing*
+*Majors: 🏛️Philosophy, 💻Computer Science And Engineering*
+*Ewha Womans University*
 ___
-🌱 I’m currently learning ...
+
+##### 🌱 I’m currently learning ...
 * Game Programming with Unity
 * C++, Java, etc...
 

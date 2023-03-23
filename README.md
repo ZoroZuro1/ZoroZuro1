@@ -4,8 +4,8 @@
 #### *Ewha Womans University*
 ___
 🌱 I’m currently learning ...
-#### Game Programming with Unity
-##### C++, Java, etc...
+* Game Programming with Unity
+* C++, Java, etc...
 
 ##### *a fan of PSG* ⚽
 ![MvnikinGIF](https://user-images.githubusercontent.com/94626295/227172583-7fe24d6c-0540-4b7c-9b4f-17c19960f0d6.gif)

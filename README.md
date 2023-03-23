@@ -1,4 +1,4 @@
-## 🌊 Hi, Thanks to visit my profile ! 🐬
+## 🌊 *Hi, Thanks For visit my profile !* 🐬
 ##### *A student learning Programing*
 ###### *Majors: 🏛️Philosophy, 💻Computer Science And Engineering*
 ###### *Ewha Womans University*

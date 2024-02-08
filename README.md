@@ -1,4 +1,4 @@
-## 🌊 *Thanks For visiting my profile !* 🐬
+![pokemon](https://github.com/ZoroZuro1/ZoroZuro1/assets/94626295/c876a51c-7f9a-4ffd-a209-ace385fc83d7)## 🌊 *Thanks For visiting my profile !* 🐬
 ###### *Majors: 🏛️Philosophy, 💻Computer Science And Engineering*
 ###### *Ewha Womans University*
 ___
@@ -7,7 +7,8 @@ ___
 * *Game Programming with Unity*
 * *C++, Java, etc...*
 
-![Uploading pokemon.gif…]()
+ ![pokemon](https://github.com/ZoroZuro1/ZoroZuro1/assets/94626295/66ccb987-8a4d-4551-91af-020865bc21cc)
+
 
 <!--
 **ZoroZuro1/ZoroZuro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

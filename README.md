@@ -1,4 +1,4 @@
-![pokemon](https://github.com/ZoroZuro1/ZoroZuro1/assets/94626295/c876a51c-7f9a-4ffd-a209-ace385fc83d7)## 🌊 *Thanks For visiting my profile !* 🐬
+## 🌊 *Thanks For visiting my profile !* 🐬
 ###### *Majors: 🏛️Philosophy, 💻Computer Science And Engineering*
 ###### *Ewha Womans University*
 ___

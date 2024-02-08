@@ -7,8 +7,7 @@ ___
 * *Game Programming with Unity*
 * *C++, Java, etc...*
 
-##### *a fan of PSG* ⚽
-![MvnikinGIF](https://user-images.githubusercontent.com/94626295/227172583-7fe24d6c-0540-4b7c-9b4f-17c19960f0d6.gif)
+![Uploading pokemon.gif…]()
 
 <!--
 **ZoroZuro1/ZoroZuro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

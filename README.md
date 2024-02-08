@@ -1,9 +1,9 @@
-## 🌊 *Thanks For visiting my profile !* 🐬
+## :zap: *Thanks For visiting my profile !* :zap:
 ###### *Majors: 🏛️Philosophy, 💻Computer Science And Engineering*
 ###### *Ewha Womans University*
 ___
 
-##### 🌱 I’m currently learning ...
+##### :bulb: I’m currently learning ...
 * *Game Programming with Unity*
 * *C++, Java, etc...*
 

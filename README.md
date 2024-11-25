@@ -4,8 +4,8 @@
 ___
 
 ##### :bulb: I’m currently learning ...
-* *Game Programming with Unity*
-* *C++, Java, etc...*
+* *Game Programming with Unity, C#*
+* *C++, Java, SQL, etc...*
 
  ![pokemon](https://github.com/ZoroZuro1/ZoroZuro1/assets/94626295/66ccb987-8a4d-4551-91af-020865bc21cc)
 
